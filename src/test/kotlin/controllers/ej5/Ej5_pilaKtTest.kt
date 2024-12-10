@@ -4,16 +4,17 @@ import org.junit.jupiter.api.Test
 
 class Ej5_pilaKtTest {
 
-@Test
- fun poptest() {
- //No se puede eliminar, cima = -2
- var pila6 = arrayOf(10, 20)
- var cima6 = -2
- cima6 = pop(pila6, cima6)
- assert(cima6 == -2)
- }
  @Test
- fun poptest2(){
+ fun poptest() {
+  //No se puede eliminar, cima = -2
+  var pila1 = arrayOf(10, 20)
+  var cima1 = -2
+  cima1 = pop(pila1, cima1)
+  assert(cima1 == -2)
+ }
+
+ @Test
+ fun poptest2() {
   //Pila vacia
   var pila3 = arrayOf<Int>()
   var cima3 = -1
