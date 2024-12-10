@@ -1,0 +1,31 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:controllers.ej5////PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/index.html
+$dokka.location:controllers.ej5/Ej5_pilaKt///PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/index.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/abrir-scanner.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/cerrarScanner/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/cerrar-scanner.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/gestionarPila/#kotlin.Array[kotlin.Int]#kotlin.Int#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/gestionar-pila.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/iniciarCima/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/iniciar-cima.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/main.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/mostrarMenu/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/mostrar-menu.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/mostrarPila/#kotlin.Array[kotlin.Int]#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/mostrar-pila.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/pop/#kotlin.Array[kotlin.Int]#kotlin.Int/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/pop.html
+$dokka.location:controllers.ej5/Ej5_pilaKt/push/#kotlin.Array[kotlin.Int]#kotlin.Int#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/push.html
+$dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
+$dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
+$dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
+$dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
+$dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
+$dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:org.example.controllers////PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/index.html
+$dokka.location:org.example.controllers/MainKt///PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-main-kt/index.html
+$dokka.location:org.example.controllers/MainKt/main/#/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-main-kt/main.html
+$dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
+$dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
+$dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+controllers.ej5
+interfaces
+models
+org.example.controllers
+utilities
+
