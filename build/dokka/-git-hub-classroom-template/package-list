@@ -1,5 +1,12 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:controllers.ej4////PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/index.html
+$dokka.location:controllers.ej4/Ej4_titolKt///PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/index.html
+$dokka.location:controllers.ej4/Ej4_titolKt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/abrir-scanner.html
+$dokka.location:controllers.ej4/Ej4_titolKt/cerrarScanner/#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/cerrar-scanner.html
+$dokka.location:controllers.ej4/Ej4_titolKt/main/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/main.html
+$dokka.location:controllers.ej4/Ej4_titolKt/pedirtexto/#kotlin.String#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/pedirtexto.html
+$dokka.location:controllers.ej4/Ej4_titolKt/titol/#kotlin.String/PointingToDeclaration/-git-hub-classroom-template/controllers.ej4/-ej4_titol-kt/titol.html
 $dokka.location:controllers.ej5////PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/index.html
 $dokka.location:controllers.ej5/Ej5_pilaKt///PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/index.html
 $dokka.location:controllers.ej5/Ej5_pilaKt/abrirScanner/#/PointingToDeclaration/-git-hub-classroom-template/controllers.ej5/-ej5_pila-kt/abrir-scanner.html
@@ -23,6 +30,7 @@ $dokka.location:org.example.controllers/MainKt/main/#/PointingToDeclaration/-gi
 $dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
 $dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
 $dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+controllers.ej4
 controllers.ej5
 interfaces
 models
