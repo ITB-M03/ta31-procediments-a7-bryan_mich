@@ -3,15 +3,11 @@ import java.util.Scanner
 fun main() {
     val scanner = abrirScanner()
     val acceso = validarSuperusuari(scanner)
-
     mostrarResultado(acceso)
 
     cerrarScanner(scanner)
 }
 
-fun esPasswordCorrecto(contra: String, passwordCorrecto: String): Boolean {
-    return contra == passwordCorrecto  // Devuelve true si la contraseña es correcta, false si no lo es
-}
 fun mostrarResultado(acceso : Boolean){
     if (acceso) {
         println("Acceso concedido")
@@ -31,13 +27,12 @@ fun validarSuperusuari(scanner: Scanner): Boolean {
     val passwordCorrecto = "Itbcontraseña"
 
     var intentos = 0
-    // Variable que indica si el acceso es correcto
-    var accesoPermitido = false
+    var accesoPermitido = false  // Variable que indicará si el acceso es correcto
 
     while (intentos < 3 && !accesoPermitido) {  // Limite de 3 intentos
         val contra = pedirtexto("Introduce la contraseña: ", scanner)  // Pedimos la contraseña
         // Si la contraseña es correcta, permitimos el acceso
-        if (esPasswordCorrecto(contra, passwordCorrecto)) {
+        if (contra == passwordCorrecto) {
             accesoPermitido = true
         } else {
             intentos++
