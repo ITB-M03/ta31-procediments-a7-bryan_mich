@@ -17,10 +17,10 @@ fun mostrarResultado(acceso : Boolean){
 }
 
 /**
- *
- *
- *
- *
+ * funcion para validar contraseña
+ *@authorBryan
+ *@version 1.1
+ *@since 11/12/2024
  */
 fun validarSuperusuari(scanner: Scanner): Boolean {
     // La contraseña correcta
